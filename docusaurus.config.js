@@ -4,8 +4,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'Solidity CookBook',
-  tagline: 'Delicious smart contracts',
-  url: 'https://your-docusaurus-test-site.com',
+  tagline: 'Learn to write delicious smart contracts',
+  url:  'https://soliditycookbook.netlify.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
