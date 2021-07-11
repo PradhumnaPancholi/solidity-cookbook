@@ -3,7 +3,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'Solidity CookBook',
+  title: 'Solidity Cookbook',
   tagline: 'Learn to write delicious smart contracts',
   url:  'https://soliditycookbook.netlify.app',
   baseUrl: '/',
@@ -11,7 +11,7 @@ module.exports = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'Pradhumna Pancholi', // Usually your GitHub org/user name.
-  projectName: 'Solidity CookBook', // Usually your repo name.
+  projectName: 'Solidity Cookbook', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'Solidity CookBook',
