@@ -77,7 +77,7 @@ module.exports = {
         //   ],
         // },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()}  Solidity CookBook. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()}  Solidity CookBook. Built with curiosity using Docusaurus.`,
     },
     prism: {
       theme: lightCodeTheme,
