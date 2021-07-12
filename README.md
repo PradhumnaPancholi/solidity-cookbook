@@ -1,33 +1,40 @@
-# Website
+# Solidity Cookbook
+This project is created for learning, teaching, and sharing resources around Solidity. The idea is cover concepts from functions to layer-2 solution to zero-knowledge-proofs and more. An attempt to teach people Solidity regardless of their experience level. While writing this this, efforts are made to make it really friendly for individuals who are not from technical/software development background. Having said that, having basic programming in any language would make it easier to follow along.
+# Connect/Feedback
+Please feel free to create an issue or start a discussion on this repo. All feedback is appreciated.
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+# Contributing
+If you would like to contribute, here are some basic guidelines for setup and branching conventions
+#### Setup
 
-## Installation
-
-```console
-yarn install
+Open your terminal and navigate to the directory you want to keep this project in.
 ```
-
-## Local Development
-
-```console
-yarn start
+1. git clone https://github.com/PradhumnaPancholi/solidity-cookbook.git
+2. cd solidity-cookbook
+3. yarn install or npm install
+4. yarn start or npm start
 ```
+And voila, you should be up and running with this project locally and you can start contributing.
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+### Branching convention
 
-## Build
+So, first of all I want to thank you if you are reading this and trying to contribute to this project.
 
-```console
-yarn build
-```
+Here's an example of what branches will look like.
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+[author-name]/[type of contribution]/[commit-name]
 
-## Deployment
+1. Author-Name:  This is going to be your name or initial. For example, I use "pnp" as my initials.
+2. Type of Contribution: As it says, it's going to be type of contribution that you are working on. It will be one of the following.
+   1. feature -  for adding a feature for website which is not a UI change or addition/modification in content.
+   2. ui - for making changes to styling, theme, templates, pages, etc.
+   3. bug -  for solution of a bug
+   4. hotfix - for temp branches to implement quick fixes. 
+   5. add - for adding a module/lesson about Solidity.
+   6. mod - for modifying an existing module/lesson.
+3. Commit name:  Name of commit. For example, "functions-lesson". Make sure to use hyphen for separating words.
 
-```console
-GIT_USER=<Your GitHub username> USE_SSH=true yarn deploy
-```
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+
+
+
