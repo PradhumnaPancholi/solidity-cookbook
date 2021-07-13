@@ -1,5 +1,6 @@
 # Solidity Cookbook
-This project is created for learning, teaching, and sharing resources around Solidity. The idea is cover concepts from functions to layer-2 solution to zero-knowledge-proofs and more. An attempt to teach people Solidity regardless of their experience level. While writing this this, efforts are made to make it really friendly for individuals who are not from technical/software development background. Having said that, having basic programming in any language would make it easier to follow along.
+This project is created for learning, teaching, and sharing resources around Solidity. The idea is to cover concepts such as functions, layer-2 solutions, zero-knowledge-proofs, and more. This is an attempt to teach Solidity regardless of your experience: effort is being made to make it really friendly for individuals who are not from technical/software development backgrounds. Having said that, having basic programming in any language would make it easier to follow along.
+
 # Connect/Feedback
 Please feel free to create an issue or start a discussion on this repo. All feedback is appreciated.
 
